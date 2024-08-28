@@ -9,7 +9,7 @@ Servidor Público, economista com mestrado em gestão publica. Áreas de atuaç�
 - 📚 Censo da Educação Superior
 
 
-#### - Atualmente mais focando em Ciências de Dados e as linguagens:
+#### - Atualmente mais focando em Ciências de Dados e nas linguagens:
 
 <div style="display: inline">
 &nbsp;&nbsp;<img width='50' height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;&nbsp;

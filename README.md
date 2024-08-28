@@ -1,12 +1,42 @@
-<h1 align="center">Hi 👋, I'm Evandro</h1>
-<h3 align="center">Brasil</h3>
+### Olá! Sou Evandro Farias
 
-- 🔭 I’m currently working on **Python**
+Servidor Público, economista com mestrado em gestão publica. Áreas de atuação:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/evandorface" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="evandorface" height="30" width="40" /></a>
-</p>
+- 🗃️ Gestão pública
+- 📈 Desenvolvimento econômico
+- 📉 Economia regional
+- 📊 Indicadores de desempenho
+- 📚 Censo da Educação Superior
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+
+#### - Atualmente mais focando em Ciências de Dados e as linguagens:
+
+<div style="display: inline">
+&nbsp;&nbsp;<img width='50' height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />&nbsp;&nbsp;
+</div>
+
+#### - Bibliotecas de apoio:
+
+<div style="display: inline">
+&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
+&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
+&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+</div>
+
+#### - Onde me encontrar:
+
+&nbsp;<a href="linkedin.com/in/evandro-farias-625939a2"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+&nbsp;<a href="https://www.facebook.com/evandro.farias.125"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+&nbsp;<a href="https://www.instagram.com/evandro.farias.125/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+
+#### - Recomendo:
+
+&nbsp;<a href="https://www.forumcelsofurtadopb.org/"><img width='90' height='70' src="https://www.nanosis.com.br/forumcelsofurtado/wp-content/uploads/2023/06/cropped-logomarca.png"></a>
+&nbsp;<a href="http://www.ipeadata.gov.br/Default.aspx"><img width='90' height='60' src="http://www.ipeadata.gov.br/img/logo.gif"></a>
+&nbsp;<a href="https://www.ibge.gov.br/"><img width='90' height='60' src="https://www.ibge.gov.br/templates/novo_portal_base/imagens/logo_mobile.png"></a>
+<a href="https://www.ufpb.br/"><img width='90' height='60' src="https://www.ufpb.br/ufpb/image-base/brasaooficial.png/@@images/1abe9a91-1d77-4443-898e-f14c006fbc43.png"></a>

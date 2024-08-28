@@ -30,7 +30,7 @@ Servidor Público, economista com mestrado em gestão publica. Áreas de atuaç�
 
 #### - Onde me encontrar:
 
-&nbsp;<a href="www.linkedin.com/in/evandro-farias-625939a2"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+&nbsp;<a href="http://linkedin.com/in/evandro-farias-625939a2"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 &nbsp;<a href="https://www.facebook.com/evandro.farias.125"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 &nbsp;<a href="https://www.instagram.com/evandro.farias.125/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 

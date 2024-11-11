@@ -39,5 +39,5 @@ Servidor Público, economista com mestrado em gestão publica. Áreas de atuaç�
 &nbsp;<a href="https://www.forumcelsofurtadopb.org/"><img width='90' height='70' src="https://www.nanosis.com.br/forumcelsofurtado/wp-content/uploads/2023/06/cropped-logomarca.png"></a>
 &nbsp;<a href="http://www.ipeadata.gov.br/Default.aspx"><img width='90' height='60' src="http://www.ipeadata.gov.br/img/logo.gif"></a>
 &nbsp;<a href="https://www.sidra.ibge.gov.br/"><img width='90' height='60' src="https://ibge.gov.br/templates/novo_portal_base/imagens/logo_mobile.png"></a>
-&nbsp;<a href="https://[www.sidra.ibge.gov.br](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"><img width='90' height='60' src="https://www.bcb.gov.br/assets/svg/logo-bcb.svg"></a>
+&nbsp;<a href="https://https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"><img width='90' height='60' src="https://www.bcb.gov.br/assets/svg/logo-bcb.svg"></a>
 <a href="https://www.ufpb.br/"><img width='90' height='60' src="https://www.ufpb.br/ufpb/image-base/brasaooficial.png/@@images/1abe9a91-1d77-4443-898e-f14c006fbc43.png"></a>

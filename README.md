@@ -19,7 +19,7 @@ Servidor Público, economista com mestrado em gestão publica. Áreas de atuaç�
 
 | | | | | |
 |---|---|---|---|---|
-| <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" /> | | <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" /> |<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" /> | <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />|<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />|
+| <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" /> | <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" /> |<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" /> | <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />|<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />|
 
 #### - Onde me encontrar:
 
@@ -31,4 +31,7 @@ Servidor Público, economista com mestrado em gestão publica. Áreas de atuaç�
 
 | | | | | |
 |---|---|---|---|---|
-| <a href="https://www.forumcelsofurtadopb.org/"><img width='90' height='70' src="https://www.nanosis.com.br/forumcelsofurtado/wp-content/uploads/2023/06/cropped-logomarca.png"></a> | <a href="http://www.ipeadata.gov.br/Default.aspx"><img width='90' height='60' src="http://www.ipeadata.gov.br/img/logo.gif"></a> | <a href="https://www.sidra.ibge.gov.br/"><img width='90' height='60' src="https://ibge.gov.br/templates/novo_portal_base/imagens/logo_mobile.png"></a> | <a href="https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"><img width='90' height='60' src="https://www.bcb.gov.br/assets/svg/logo-bcb.svg"></a> | <a href="https://www.ufpb.br/"><img width='90' height='60' src = "https://www.ufpb.br/wp-content/themes/ufpb-main/img/marca-70anos.png"></a> |
+| <a href="https://www.forumcelsofurtadopb.org/"><img width='90' height='60' src="https://www.forumcelsofurtadopb.org/wp-content/uploads/2020/07/logo200.png"></a>
+| <a href="http://www.ipeadata.gov.br/Default.aspx"><img width='90' height='60' src="http://www.ipeadata.gov.br/img/logo.gif"></a>
+| <a href="https://www.sidra.ibge.gov.br/"><img width='90' height='60' src= "https://www.ibge.gov.br/templates/novo_portal_base/imagens/logo_mobile.png"</a>
+| <a href="https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"><img width='90' height='60' src="https://www.bcb.gov.br/assets/svg/logo-bcb.svg"></a> | <a href="https://www.ufpb.br/"><img width='90' height='60' src = "https://www.ufpb.br/wp-content/themes/ufpb-main/img/marca-70anos.png"></a> |

@@ -29,6 +29,6 @@ Servidor Público, economista com mestrado em gestão publica. Áreas de atuaç�
 
 #### - Recomendo:
 
-| | | | | |
-|---|---|---|---|---|
-| <a href="https://www.forumcelsofurtadopb.org/"><img width='90' height='60' src="https://www.forumcelsofurtadopb.org/wp-content/uploads/2020/07/logo200.png"></a>| <a href="http://www.ipeadata.gov.br/Default.aspx"><img width='90' height='60' src="http://www.ipeadata.gov.br/img/logo.gif"></a>|<a href="https://www.ibge.gov.br/"><img width='90' height='60' src = "https://www.ibge.gov.br/templates/novo_portal_base/imagens/logo_mobile.png"></a>| <a href="https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"><img width='90' height='60' src="https://www.bcb.gov.br/assets/svg/logo-bcb.svg"></a>| <a href="https://www.ufpb.br/"><img width='90' height='60' src = "https://www.ufpb.br/wp-content/themes/ufpb-main/img/marca-70anos.png"></a> |
+| | | | |
+|---|---|---|---|
+| <a href="https://www.forumcelsofurtadopb.org/"><img width='90' height='60' src="https://www.forumcelsofurtadopb.org/wp-content/uploads/2020/07/logo200.png"></a>| <a href="http://www.ipeadata.gov.br/Default.aspx"><img width='90' height='60' src="http://www.ipeadata.gov.br/img/logo.gif"></a>| <a href="https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"><img width='90' height='60' src="https://www.bcb.gov.br/assets/svg/logo-bcb.svg"></a>| <a href="https://www.ufpb.br/"><img width='90' height='60' src = "https://www.ufpb.br/wp-content/themes/ufpb-main/img/marca-70anos.png"></a> |

@@ -11,26 +11,24 @@ Servidor Público, economista com mestrado em gestão publica. Áreas de atuaç�
 
 #### - Atualmente mais focando em Ciências de Dados e nas linguagens:
 
-<p>
-  <img width='50' height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" />&nbsp;&nbsp<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" /><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-</p>
+| | | | | |
+|---|---|---|---|---|
+| <img width='50' height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> | <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /> | <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" /> | | |
 
 #### - Bibliotecas de apoio:
 
 | | | | | |
 |---|---|---|---|---|
-| <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" /> | <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" /> | <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" /> | <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" /> | <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /> |
+| <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" /> | <img width='50' height='50' src="..." /> | <img width='50' height='50' src="..." /> | | |
 
 #### - Onde me encontrar:
 
-&nbsp;<a href="http://linkedin.com/in/evandro-farias-625939a2"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-&nbsp;<a href="https://www.facebook.com/evandro.farias.125"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-&nbsp;<a href="https://www.instagram.com/evandro.farias.125/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+| | | |
+|---|---|---|
+| <a href="http://linkedin.com/in/evandro-farias-625939a2"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> | <a href="https://www.facebook.com/evandro.farias.125"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a> | <a href="https://www.instagram.com/evandro.farias.125/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> |
 
 #### - Recomendo:
 
-&nbsp;<a href="https://www.forumcelsofurtadopb.org/"><img width='90' height='70' src="https://www.nanosis.com.br/forumcelsofurtado/wp-content/uploads/2023/06/cropped-logomarca.png"></a>
-&nbsp;<a href="http://www.ipeadata.gov.br/Default.aspx"><img width='90' height='60' src="http://www.ipeadata.gov.br/img/logo.gif"></a>
-&nbsp;<a href="https://www.sidra.ibge.gov.br/"><img width='90' height='60' src="https://ibge.gov.br/templates/novo_portal_base/imagens/logo_mobile.png"></a>
-&nbsp;<a href="https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"><img width='90' height='60' src="https://www.bcb.gov.br/assets/svg/logo-bcb.svg"></a>
-<a href="https://www.ufpb.br/"><img width='90' height='60' src="https://www.ufpb.br/ufpb/image-base/brasaooficial.png/@@images/1abe9a91-1d77-4443-898e-f14c006fbc43.png"></a>
+| | | | | |
+|---|---|---|---|---|
+| <a href="https://www.forumcelsofurtadopb.org/"><img width='90' height='70' src="https://www.nanosis.com.br/forumcelsofurtado/wp-content/uploads/2023/06/cropped-logomarca.png"></a> | <a href="http://www.ipeadata.gov.br/Default.aspx"><img width='90' height='60' src="http://www.ipeadata.gov.br/img/logo.gif"></a> | <a href="https://www.sidra.ibge.gov.br/"><img width='90' height='60' src="https://ibge.gov.br/templates/novo_portal_base/imagens/logo_mobile.png"></a> | <a href="https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries"><img width='90' height='60' src="https://www.bcb.gov.br/assets/svg/logo-bcb.svg"></a> | <a href="https://www.ufpb.br/"><img width='90' height='60' src="https://www.ufpb.br/ufpb/image-base/brasaooficial.png/@@images/1abe9a91-1d77-4443-898e-f14c006fbc43.png"></a> |

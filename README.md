@@ -11,8 +11,8 @@ Servidor Público, economista com mestrado em gestão publica. Áreas de atuaç�
 
 #### - Atualmente mais focando em Ciências de Dados e nas linguagens:
 
-| | | | | |
-|---|---|---|---|---|
+| | | | |
+|---|---|---|---|
 | <img width='50' height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> |<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /> | <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> |<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
 
 #### - Bibliotecas de apoio:
